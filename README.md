@@ -8,8 +8,8 @@ Working Procedure:
 7. Write the result into res.txt file
 
 Code Book:
-activity_labels - a table for code:activity
-features - a table for n:fatures
-data - original combined data
-tidy_data - specific data selected
-res - result data generated
+- activity_labels - a table for code:activity
+- features - a table for n:fatures
+- data - original combined data
+- tidy_data - specific data selected
+- res - result data generated
